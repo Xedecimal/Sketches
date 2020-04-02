@@ -8,7 +8,6 @@
 
 - [Attic](https://github.com/Xedecimal/Sketches-Modules-Attic)
 - [Bathroom](https://github.com/Xedecimal/Sketches-Modules-Bathroom)
-- [Bedroom](https://github.com/Xedecimal/Sketches-Modules-Bedroom)
 - [Front Door](https://github.com/Xedecimal/Sketches-Modules-FrontDoor)
 - [Garage](https://github.com/Xedecimal/Sketches-Modules-Garage)
 - [Gateway](https://github.com/Xedecimal/Sketches-Modules-Gateway)
