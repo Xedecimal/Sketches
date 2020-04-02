@@ -1,6 +1,27 @@
-[submodule "Modules"]
-	path = Modules
-	url = ./Modules
 [submodule "libraries"]
 	path = libraries
 	url = C:\\Users\\Xedec\\Documents\\Code\\hardware\\sketches\\libraries
+[submodule "Attic"]
+	path = Attic
+	url = ./Modules/Attic
+[submodule "BathroomUp"]
+	path = BathroomUp
+	url = ./Modules/BathroomUp
+[submodule "FrontDoor"]
+	path = FrontDoor
+	url = ./Modules/FrontDoor
+[submodule "Garage"]
+	path = Garage
+	url = ./Modules/Garage
+[submodule "Gateway"]
+	path = Gateway
+	url = ./Modules/Gateway
+[submodule "Kitchen"]
+	path = Kitchen
+	url = ./Modules/Kitchen
+[submodule "LaundryRoom"]
+	path = LaundryRoom
+	url = ./Modules/LaundryRoom
+[submodule "Office"]
+	path = Office
+	url = ./Modules/Office
