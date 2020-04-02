@@ -7,7 +7,7 @@
 ## List of Modules
 
 - [Attic](https://github.com/Xedecimal/Sketches-Modules-Attic)
-- [Bathroom](https://github.com/Xedecimal/Sketches-Modules-Bathroom)
+- [BathroomUp](https://github.com/Xedecimal/Sketches-Modules-BathroomUp)
 - [Front Door](https://github.com/Xedecimal/Sketches-Modules-FrontDoor)
 - [Garage](https://github.com/Xedecimal/Sketches-Modules-Garage)
 - [Gateway](https://github.com/Xedecimal/Sketches-Modules-Gateway)
