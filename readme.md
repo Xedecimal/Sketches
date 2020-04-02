@@ -1,5 +1,9 @@
 # Arduino Sketches
 
+## List of libraries
+
+- [Xedecimal](https://github.com/Xedecimal/Sketches-Libraries-Xedecimal)
+
 ## List of Modules
 
 - [Attic](https://github.com/Xedecimal/Sketches-Modules-Attic)
