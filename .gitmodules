@@ -1,6 +1,6 @@
 [submodule "libraries"]
 	path = libraries
-	url = ./libraries
+	url = https://github.com/Xedecimal/Sketches-Libraries.git
 [submodule "Modules"]
 	path = Modules
 	url = https://github.com/Xedecimal/Sketches-Modules.git
