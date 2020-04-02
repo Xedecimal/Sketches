@@ -1,0 +1,6 @@
+[submodule "Modules"]
+	path = Modules
+	url = ./Modules
+[submodule "libraries"]
+	path = libraries
+	url = C:\\Users\\Xedec\\Documents\\Code\\hardware\\sketches\\libraries
