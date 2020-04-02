@@ -2,10 +2,12 @@
 
 ## List of Modules
 
-- GatewaySerial
-  - Does the radio communication.
+- Attic
+- Bathroom
+- Bedroom
+- Front Door
 - Garage
-  - Switch: Garage Door
-  - Sensor: temperature, humidity, light
+- Gateway
+- Kitchen
 - Laundry Room
-  - Sensor: light, humidity, temperature
+- Office
